@@ -1,1 +1,0 @@
-import{d as s,o as n,c as o,s as _,f as l,t as c,v as p,_ as r}from"../app.d002cfd5.js";const d=s({__name:"Badge",props:{text:null,type:null},setup(e){return(a,u)=>{var t;return n(),o("span",{class:p(["VPBadge",(t=e.type)!=null?t:"tip"])},[_(a.$slots,"default",{},()=>[l(c(e.text),1)],!0)],2)}}});const m=r(d,[["__scopeId","data-v-6a264e7e"]]);export{m as _};
